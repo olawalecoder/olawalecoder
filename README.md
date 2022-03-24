@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>I am Olawale!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20">A passionate Full-stack developer, Co-founder and Tech entrepreneur from Nigeria.</h3>
+<h3 font-size="20">A passionate Full-stack developer, UI Designer, Digital Marketing Enthusiast.</h3>
 <br />
 
 
