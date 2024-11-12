@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
-- 🤝 I’m looking for help with **Algorithms and Data Structures**
 - ⚡ Fun fact **I am transitioning from design to development**
 <br />
 
